@@ -23,7 +23,7 @@
 		"@sapphire/plugin-hmr": "^2.0.3",
 		"@sapphire/plugin-logger": "^3.0.7",
 		"@sapphire/plugin-subcommands": "^5.1.0",
-		"@sapphire/plugin-utilities-store": "^1.0.3",
+		"@sapphire/plugin-utilities-store": "^2.0.2",
 		"@sapphire/utilities": "^3.13.0",
 		"@skyra/env-utilities": "^1.2.1",
 		"@typescript-eslint/eslint-plugin": "^6.12.0",
